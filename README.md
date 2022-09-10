@@ -1,4 +1,4 @@
-# Power BI - Dashboard Vendas X Produto X Vendedores
+# Power BI - Dashboard Vendas X Produto X Vendedores (Concluído)
 
 
 Bem vindo ao meu repositório! Este, é um repositório em que você poderá encontrar um dos meus primeiros exercícios realizados realizando uma consulta em base excel para resgatar recursos visuais utilizando a ferramenta Power BI. Exercício foi desenvolvido durante período de estudos e realização de cursos com cargas horárias descritas no perfil do LinkedIn.
